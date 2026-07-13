@@ -3,13 +3,14 @@
 </p>
 
 <h1>osTicket</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites, installation, and configuration of the open-source help desk ticketing system osTicket, including post-installation setup and the full ticket lifecycle.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
