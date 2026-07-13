@@ -16,14 +16,6 @@ This tutorial outlines the prerequisites, installation, and configuration of the
 
 - Windows 11 Pro (25H2)</b>
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Steps</h2>
 
 <p>
